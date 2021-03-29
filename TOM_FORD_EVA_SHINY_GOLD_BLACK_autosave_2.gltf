@@ -67,18 +67,18 @@
   "buffers": [
     {
       "byteLength": 2233060,
-      "uri": "TOM_FORD_EVA_SHINY_GOLD_BLACK_autosave_2.bin"
+      "uri": "https://github.com/SVolkova393/Insilico1/raw/main/TOM_FORD_EVA_SHINY_GOLD_BLACK_autosave_2.bin"
     }
   ],
   "images": [
     {
-      "uri": "09 - Default_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/SVolkova393/Insilico1/main/09%20-%20Default_baseColor.png"
     },
     {
-      "uri": "09 - Default_occlusionRoughnessMetallic.png"
+      "uri": "https://raw.githubusercontent.com/SVolkova393/Insilico1/main/09%20-%20Default_occlusionRoughnessMetallic.png"
     },
     {
-      "uri": "09 - Default_normal.png"
+      "uri": "https://raw.githubusercontent.com/SVolkova393/Insilico1/main/09%20-%20Default_normal.png"
     }
   ],
   "materials": [
